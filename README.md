@@ -30,7 +30,7 @@ The Asp.Net Core PDF Viewer component allows to view, print, and annotate the PD
 
 ## License
 
-This is a commercial product and requires a paid license for possession or use. Syncfusion�s licensed software, including this component, is subject to the terms and conditions of [Syncfusion's EULA](https://www.syncfusion.com/eula/es/?utm_source=github&utm_medium=listing&utm_campaign=github-xlsio-examples). You can purchase a licnense [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing&utm_campaign=github-xlsio-examples) or start a free 30-day trial [here](https://www.syncfusion.com/account/manage-trials/start-trials?utm_source=github&utm_medium=listing&utm_campaign=github-xlsio-examples).
+This is a commercial product and requires a paid license for possession or use. Syncfusions licensed software, including this component, is subject to the terms and conditions of [Syncfusion's EULA](https://www.syncfusion.com/eula/es/?utm_source=github&utm_medium=listing&utm_campaign=github-xlsio-examples). You can purchase a licnense [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing&utm_campaign=github-xlsio-examples) or start a free 30-day trial [here](https://www.syncfusion.com/account/manage-trials/start-trials?utm_source=github&utm_medium=listing&utm_campaign=github-xlsio-examples).
 
 ## About Syncfusion&reg; 
 Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion&reg; has more than 28,000+ customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
